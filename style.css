@@ -38,3 +38,24 @@ html, body {
     /* Any adjustments for desktop and larger go here.
     Note these styles will be applied to anything 729px or larger -- so desktop */
 }
+
+figcaption{
+    color: grey;
+}
+.democrat{
+    color:blue;
+}
+.republican{
+    color: red;
+}
+h1{
+    text-transform: uppercase;
+
+}
+
+.body{
+    font-family: Georgia;serif
+
+h6{
+    color: grey;
+}
